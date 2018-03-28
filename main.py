@@ -12,7 +12,7 @@ question = "Do you want to continue as " + spy.salutation + " " + spy.name + " (
 
 existing = input(question)
 
-STATUS_MESSAGES=["Ritesh", "Kumar"]
+STATUS_MESSAGES=["Rahul", "Taneja"]
 
 # Function to add status
 def add_status():
